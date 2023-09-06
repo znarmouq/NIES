@@ -664,6 +664,9 @@ h6,
     .swiper-button-next {
         right: 10px !important; /* Adjust right positioning as needed */
     }
+    .nieslogo{
+        width: 80px !important;
+    }
 }
 
 /* not used */
