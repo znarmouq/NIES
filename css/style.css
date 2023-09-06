@@ -703,3 +703,8 @@ footer p {
 .white-text {
     color: white; /* Style to change text color */
 }
+
+.nieslogo{
+    width: 130px;
+    height: auto;
+}
